@@ -1,0 +1,13 @@
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.exe
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.deps.json
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.runtimeconfig.json
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.runtimeconfig.dev.json
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.dll
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\bin\Debug\netcoreapp3.1\ClassPractice.pdb
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.csprojAssemblyReference.cache
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.AssemblyInfoInputs.cache
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.AssemblyInfo.cs
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.dll
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.pdb
+C:\Users\poppp\source\repos\ClassPractice\ClassPractice\obj\Debug\netcoreapp3.1\ClassPractice.genruntimeconfig.cache
